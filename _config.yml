@@ -1,0 +1,4 @@
+title: 'GoStartKit'
+tagline: 'package from gostartkit'
+baseurl: "/" 
+permalink:  "/:title"
